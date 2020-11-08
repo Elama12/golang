@@ -1,0 +1,16 @@
+Features of Go:
+1. Support for environment adopting patterns similar to dynamic languages. For example, type inference (x := 0 is valid declaration of a variable x of type int)
+2. Compilation time is fast.
+3. Inbuilt concurrency support: lightweight processes (via go routines), channels, select statement.
+4. Go programs are simple, concise, and safe.
+5. Support for Interfaces and Type embedding.
+6. Production of statically linked native binaries without external dependencies.
+
+Excluded features:
+1. Support for type inheritance
+2. Support for method or operator overloading
+3. Support for circular dependencies among packages
+4. Support for pointer arithmetic
+5. Support for assertions
+6. Support for generic programming
+
